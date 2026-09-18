@@ -98,10 +98,10 @@ The project contains four GitHub Actions workflows:
 ```text
 .github/
 └── workflows/
-    ├── frontend-ci.yaml
-    ├── backend-ci.yaml
-    ├── frontend-cd.yaml
-    └── backend-cd.yaml
+    ├── frontend-ci.yml
+    ├── backend-ci.yml
+    ├── frontend-cd.yml
+    └── backend-cd.yml
 ```
 
 The workflows provide separate CI and CD automation for the frontend and backend applications.
